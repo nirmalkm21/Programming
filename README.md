@@ -1,1 +1,1 @@
-# Programming
+# Regarding Problem Solved and Techniques
